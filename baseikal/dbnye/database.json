@@ -1,0 +1,104 @@
+{
+  "users": {
+    "6281214281312@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": "Infinity"
+    },
+    "6281528628870@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": "Infinity"
+    },
+    "6285349736408@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": "Infinity"
+    },
+    "62895371344484@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": "Infinity"
+    }
+  },
+  "chats": {
+    "6281214281312@s.whatsapp.net": {
+      "mute": false
+    },
+    "120363041426385506@g.us": {
+      "mute": false
+    },
+    "120363042561799035@g.us": {
+      "mute": false
+    },
+    "6285349736408@s.whatsapp.net": {
+      "mute": false
+    },
+    "6287843892791@s.whatsapp.net": {
+      "mute": false
+    },
+    "6281528628870@s.whatsapp.net": {
+      "mute": false
+    },
+    "120363027787442019@g.us": {
+      "mute": false
+    },
+    "62895371344484@s.whatsapp.net": {
+      "mute": false
+    },
+    "120363043742417303@g.us": {
+      "mute": false
+    },
+    "6287781345384@s.whatsapp.net": {
+      "mute": false
+    },
+    "6283847178421@s.whatsapp.net": {
+      "mute": false
+    },
+    "6282188372565@s.whatsapp.net": {
+      "mute": false
+    },
+    "120363044449063151@g.us": {
+      "mute": false
+    }
+  },
+  "database": {},
+  "game": {
+    "tebaklagu": [],
+    "family100": [],
+    "math": [],
+    "tebakgambar": [],
+    "tebakkata": [],
+    "lontong": [],
+    "lontong_desk": [],
+    "kalimat": [],
+    "lirik": [],
+    "tebakan": []
+  },
+  "settings": {
+    "6281214281312@s.whatsapp.net": {
+      "status": 0,
+      "templateImage": true,
+      "templateVideo": false,
+      "templateGif": false,
+      "templateMsg": false,
+      "available": false,
+      "composing": false,
+      "recording": false
+    },
+    "62895371344484@s.whatsapp.net": {
+      "status": 0,
+      "templateImage": true,
+      "templateVideo": false,
+      "templateGif": false,
+      "templateDocument": false,
+      "available": false,
+      "composing": false,
+      "recording": false
+    }
+  },
+  "others": {
+    "vote": []
+  },
+  "sticker": {}
+}
