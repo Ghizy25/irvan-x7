@@ -17,9 +17,9 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
 global.youtube = 'https://wa.me/6287781345384?text=I'
-global.ig = 'https://wa.me/6287781345384?text=I'
-global.mygc = 'https://wa.me/6287781345384?text=I'
-global.myweb = 'https://wa.me/6287781345384?text=I'
+global.ig = 'https://wa.me/62895617936984?text=I'
+global.mygc = 'https://wa.me/62895617936984?text=I'
+global.myweb = 'https://wa.me/62895617936984?text=I'
 global.linkgrupss = "https://wa.me/6287781345384?text=I"
 global.linkpro = 'mailto:support@whatsapp.com?subject=Deactivate%20My%20Account%20Number&body=Please%20Deactivate%20The%20My%20Account%20Number%20%2B62XXXXXXXX%20Immediately%20Because%20The%20Number%20Has%20Been%20Lost'
 global.email = 'tondyghizy@gmail.com'
@@ -30,11 +30,11 @@ global.botname = 'GhizyMaker' //ubah jadi nama bot mu, note tanda ' gausah di ha
 global.footer = 'GhizyMaker' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['62895371344484']
-global.premium = ['62895371344484']
-global.packname = '62895371344484'
-global.ownerr = ['62895371344484']
-global.author = '62895371344484'
+global.owner = ['62895617936984']
+global.premium = ['62895617936984']
+global.packname = '62895617936984'
+global.ownerr = ['GhizyMaker']
+global.author = 'GhizyMaker'
 global.sessionName = 'session'
 global.prefa = ['','!','.',',','🐤','🗿']
 global.sp = '⭔'
